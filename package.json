@@ -2,13 +2,6 @@
   "name": "architectui-react-pro",
   "version": "1.5.0",
   "private": true,
-  "description": "ArchitectUI - Bootstrap 4 Premium Admin Dashboard Template",
-  "author": "DashboardPack.com",
-  "homepage": "https://demo.dashboardpack.com/architectui-react-pro",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/dpackdev/architectui-react-pro"
-  },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.11.2",
     "@fortawesome/fontawesome-svg-core": "^1.2.25",
